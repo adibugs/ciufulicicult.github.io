@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px
+}
+
+::-webkit-scrollbar-thumb,::-webkit-scrollbar-track {
+    background: #000
+}
+body{
+    
+    background: black;
+}
+.logo{
+    text-shadow: 0 1px 10px #fdfdfd;
+    font-size: 4rem;
+    text-align: center;
+}
+.ciufu{
+    color:#f1f1f1;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.menu{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+span{
+    color: #454fbf;
+}
+a{
+    text-decoration: none;
+    color:#fdfdfd;
+}
+ul{
+    text-align: center;
+    font-size: 15px;
+    word-spacing: 5px;
+    justify-content: space-between;
+    
+}
+
+span2{
+    color: #454fbf;
+    text-shadow: 0 20px 50px #454fbf;
+}
+span3{
+    color:deeppink;
+    text-shadow: 0 20px 50px deeppink;
+
+}
+.wtf{
+    color: white;
+    text-align: justify;
+    padding-left: 60px;
+    padding-bottom: 50px;
+    padding-top: 190px;
+    font-size: 1.5rem;
+}
+.wtf2{
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding-right: 1000px;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+.wtf3{
+    padding-top:30px;
+    padding-bottom: 10px;
+}
+.ftw{
+    color: white;
+    text-align: justify;
+    padding-left: 60px;
+    padding-bottom: 30px;
+    padding-top: 0px;
+    font-size: 1.2rem;
+}
+.ftw2{
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding-right: 1000px;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+.ftw3{
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+.copy{
+    color:#454fbf;
+}
